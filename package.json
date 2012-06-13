@@ -1,0 +1,9 @@
+{
+    "name": "xforwardedforheader", 
+    "license": "MPL 2.0", 
+    "author": "Jakob Landbo", 
+    "version": "0.1", 
+    "fullName": "XForwardedForHeader", 
+    "id": "jid1-vasLCl9ZsexfAQ", 
+    "description": "Inserts X-Forwarded-For field into the HTTP header"
+}

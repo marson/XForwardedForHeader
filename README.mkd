@@ -1,0 +1,2 @@
+This addon inserts [X-Forwarded-For](http://en.wikipedia.org/wiki/X-Forwarded-For) into the HTTP Request header.
+The value is currently the IP 8.8.8.8 witch is an IP in United states. This will make some websites think that you are a proxy that is forwarding a client from United States.

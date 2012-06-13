@@ -1,4 +1,0 @@
-content XForwardedForHeader chrome/content/	
-skin	XForwardedForHeader chrome/skin/ 
-
-overlay chrome://browser/content/browser.xul  chrome://XForwardedForHeader/content/overlay.xul
