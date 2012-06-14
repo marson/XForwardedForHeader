@@ -1,2 +1,21 @@
+X-Forwarded-For-Header
+======================
+
+### About ###
 This addon inserts [X-Forwarded-For](http://en.wikipedia.org/wiki/X-Forwarded-For) into the HTTP Request header.
 The value is currently the IP 8.8.8.8 witch is an IP in United states. This will make some websites think that you are a proxy that is forwarding a client from United States.
+
+### Building ###
+To build the addon you have to use the addon builder sdk from mozilla. Download
+it here: <https://ftp.mozilla.org/pub/mozilla.org/labs/jetpack/jetpack-sdk-latest.zip>
+
+After you [setup the
+addon-sdk](https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide/tutorials/installation.html) start firefox with the addon installed automaticly with the following command:
+    cfx run
+
+If you want to build an xpi package run:
+    cfx xpi
+
+### Ideas for improvement ###
+  * UI for activating/deactivating the addon.
+  * UI for setting a custom IP address.
