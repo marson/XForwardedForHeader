@@ -3,7 +3,8 @@
     "license": "MPL 2.0", 
     "author": "Jakob Landbo", 
     "version": "0.1", 
-    "fullName": "XForwardedForHeader", 
+    "fullName": "X-Forwarded-For Header", 
     "id": "jid1-vasLCl9ZsexfAQ", 
-    "description": "Inserts X-Forwarded-For field into the HTTP header"
+    "description": "Inserts X-Forwarded-For field into the HTTP header",
+		"homepage": "https://github.com/marson/XForwardedForHeader"
 }
