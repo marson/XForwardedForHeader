@@ -15,7 +15,3 @@ addon-sdk](https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide
 
 If you want to build an xpi package run:
     cfx xpi
-
-### Ideas for improvement ###
-  * UI for activating/deactivating the addon.
-  * UI for setting a custom IP address.
