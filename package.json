@@ -1,18 +1,18 @@
 {
-    "name": "xforwardedforheader", 
-    "license": "MPL 2.0", 
-    "author": "Jakob Landbo", 
-    "version": "1.0.1", 
+    "name": "xforwardedforheader",
+    "license": "MPL 2.0",
+    "author": "Jakob Landbo",
+    "version": "1.0.1",
 
-    "fullName": "X-Forwarded-For Header", 
+    "fullName": "X-Forwarded-For Header",
     "id": "jid1-vasLCl9ZsexfAQ",
     "description": "Inserts X-Forwarded-For field into the HTTP header",
-		"homepage": "https://github.com/marson/XForwardedForHeader",
-		"preferences": [{
-				"name": "ip",
-				"title": "IP Address",
+    "homepage": "https://github.com/marson/XForwardedForHeader",
+    "preferences": [{
+        "name": "ip",
+        "title": "IP Address",
         "description": "The IP address for the X-Forwarded-For header field.",
         "type": "string",
         "value": "8.8.8.8"
-		}]
+    }]
 }

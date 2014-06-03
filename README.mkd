@@ -11,7 +11,12 @@ Download it here: <https://ftp.mozilla.org/pub/mozilla.org/labs/jetpack/jetpack-
 
 After you [setup the
 addon-sdk](https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide/tutorials/installation.html) start firefox with the addon installed automaticly with the following command:
-    cfx run
+
+```Shell
+cfx run
+```
 
 If you want to build an xpi package run:
-    cfx xpi
+```Shell
+cfx xpi
+```
